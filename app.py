@@ -13,7 +13,7 @@ def index():
         if not city:
             error = "Please enter a city name."
         else:
-            api_key = "4f00a21d28200ea7d5efdb727ef2ba7a"  # Replace with your OpenWeatherMap API key
+            api_key = "your api key"  # Replace with your OpenWeatherMap API key
             api_url = "https://api.openweathermap.org/data/2.5/weather"
             params = {"q": city, "appid": api_key, "units": "metric"}
             try:
