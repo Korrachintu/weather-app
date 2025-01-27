@@ -18,7 +18,7 @@ Clone this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Korrachintu/weather-app.git
 Navigate to the project directory:
 bash
 Copy
